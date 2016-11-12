@@ -1,5 +1,5 @@
 {
-  "name": "mattagohni/solr-query",
+  "name": "mattagohni/solrquery",
   "type": "library",
   "require": {
     "solarium/solarium": "^3.0"
