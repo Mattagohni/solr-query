@@ -1,6 +1,6 @@
 <?php
 
-namespace mattagohni\solariumquery\solr;
+namespace mattagohni\solrquery\solr;
 
 class Query
 {

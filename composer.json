@@ -1,5 +1,5 @@
 {
-  "name": "mattagohni/solarium-query",
+  "name": "mattagohni/solr-query",
   "type": "package",
   "require": {
     "solarium/solarium": "^3.0"
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "mattagohni\\solariumquery\\": "src/"
+      "mattagohni\\solrquery\\": "src/"
     }
   },
   "repositories": [

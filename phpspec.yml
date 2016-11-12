@@ -1,7 +1,7 @@
 suites:
   default:
-    namespace: mattagohni\solariumquery
-    psr4_prefix: mattagohni\solariumquery
+    namespace: mattagohni\solrquery
+    psr4_prefix: mattagohni\solrquery
     src_path: src/
     spec_prefix: spec\
     spec_path: .

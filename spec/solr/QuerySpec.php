@@ -1,8 +1,8 @@
 <?php
 
-namespace spec\mattagohni\solariumquery\solr;
+namespace spec\mattagohni\solrquery\solr;
 
-use mattagohni\solariumquery\solr\Query;
+use mattagohni\solrquery\solr\Query;
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;
 
